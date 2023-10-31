@@ -1,2 +1,2 @@
-# a-b-testing-project
+# a-b_testing_project
 Marketing A/B testing
